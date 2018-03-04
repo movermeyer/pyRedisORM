@@ -7,11 +7,11 @@ RedisORM v0.2.0
 .. image:: https://coveralls.io/repos/JoshAshby/pyRedisORM/badge.png
         :target: https://coveralls.io/r/JoshAshby/pyRedisORM
 
-.. image:: https://pypip.in/v/RedisORM/badge.png
+.. image:: https://img.shields.io/pypi/v/RedisORM.svg
     :target: https://crate.io/packages/RedisORM/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/d/RedisORM/badge.png
+.. image:: https://img.shields.io/pypi/dm/RedisORM.svg
     :target: https://crate.io/packages/RedisORM/
     :alt: Number of PyPI downloads
 
